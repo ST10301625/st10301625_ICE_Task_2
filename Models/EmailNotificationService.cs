@@ -7,6 +7,7 @@
         public void SendNotification(string message)
         {
             // Simulate sending an email by printing a message to the console
+
             Console.WriteLine($"Email sent: {message}");
         }
     }
