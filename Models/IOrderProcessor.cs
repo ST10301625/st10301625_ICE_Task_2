@@ -1,6 +1,6 @@
 ﻿namespace st10301625_ICE_Task_2.Models
 {
-    public class IOrderProcessor
+    public interface IOrderProcessor
     {
         void ProcessOrder(Order order);
 
